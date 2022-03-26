@@ -16,6 +16,8 @@
     
 [-- Se For Postar Deixe os Creditos Para My --]
     
+- Caso o Da Git Esteja Bugado: [Baixe o Bot Clicando Aqui](https://www.mediafire.com/file/w8jz3g6cor4sgb7/bot-de-instagram-by-lzmods.zip/file) e Extraia Pra Sua Memoria Interna
+    
  ------------------------------------------------------------------------------------
        </Como Instalar o Bot De Instagram/> 
 ```bash
@@ -38,6 +40,7 @@ cd insta-bot
 node lz
 
 ( Se der alguns warn's ou erros no npm install @androz2091/insta.js é normal ok! )
+    
     
 ``` 
 
