@@ -33,6 +33,7 @@ pkg install nodejs-lts -y
  
 cd /sdcard
 git clone https://github.com/lzmodsoficial/insta-bot.git
+npm install @androz2091/insta.js
 cd insta-bot
 node lz
     
