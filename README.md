@@ -36,6 +36,8 @@ git clone https://github.com/lzmodsoficial/insta-bot.git
 npm install @androz2091/insta.js
 cd insta-bot
 node lz
+
+( Se der alguns warn's ou erros no npm install @androz2091/insta.js é normal ok! )
     
 ``` 
 
