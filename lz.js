@@ -1,4 +1,4 @@
-const get = require('./InstagramWebApi/lzdomina');
+const get = require('@androz2091/insta.js');
 const moment = require('moment-timezone')
 const time = moment().format('DD/MM HH:mm:ss')
 const { color } = require('./Lz1K/color')
